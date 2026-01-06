@@ -36,8 +36,8 @@ body * {
 
 /* CONTAINER  */
 #container {
-    width: 360px;
-    /* height: 712px; */
+    width: 100%;
+    max-width: 768px;
     margin: 56px auto 0px;   /*auto - para centralizar display:block*/
     padding: 0 24px;
 }
@@ -131,7 +131,6 @@ ul li a:hover {
     justify-content: center;
     font-size: 24px;
     padding: 24px 0;
-    /* gap: 32px; */
 }
 
 #social-links a {
