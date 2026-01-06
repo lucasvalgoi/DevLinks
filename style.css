@@ -27,6 +27,8 @@
 body {
     /* shorthand -> background: color image repeat position(x e y)/size */
     background: var(--bg-url) no-repeat top center/cover;
+    height: 100vh;
+    overflow-y: hidden;
 }
 
 body * {
@@ -151,4 +153,15 @@ footer {
     text-align: center;
     padding: 24px 0;
     font-size: 14px;
+}
+
+/* MEDIA QUERIES */
+@media (min-width: 769px) {
+    :root {
+        --bg-url: url('./assets/bg-desktop.jpg');
+    }
+
+    .light {
+        --bg-url: url('./assets/bg-desktop-light.jpg');
+    }
 }
