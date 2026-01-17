@@ -61,4 +61,4 @@ Para acessar to projeto, basta acessar o link:
 
 ### 👦 Desenvolvido por: Lucas Luis Valgoi
 
-#### 📰 Projeto sob Licença 
+#### 📰 Projeto sob Licença [MIT](./LICENSE)
