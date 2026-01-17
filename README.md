@@ -1,4 +1,4 @@
-# 📌 DevLinks
+<h1 align='center'>📌 DevLinks</h1>
 
 <p align='center'>
    <img alt='Preview mobile DevLinks' src="./.github/preview-mobile.jpg">
@@ -12,7 +12,7 @@ Repositório do projeto **DevLinks**, uma página de links úteis para desenvolv
 
 ## 🔍 Sobre o Projeto
 
-DevLinks é um projeto front‑end que reúne diversos links frequentemente usados por desenvolvedores, organizados de forma clara e acessível. O projeto foi desenvolvido com **HTML5**, **CSS3** e **JavaScript** como parte dos aprendizados do curso *Discover* da Rocketseat, com foco em boas práticas de estrutura, estilo e interatividade.
+DevLinks é um projeto front‑end que reúne diversos links frequentemente usados, organizados de forma clara e acessível. O projeto foi desenvolvido com **HTML5**, **CSS3** e **JavaScript** como parte dos aprendizados do curso *Discover* da Rocketseat 🚀, com foco em boas práticas de estrutura, estilo, interatividade e responsividade.
 
 ---
 
@@ -31,11 +31,13 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ```
 📦 DevLinks
+ ┣ 📂 .github/
  ┣ 📂 assets/
  ┣ 📜 index.html
  ┣ 📜 style.css
  ┣ 📜 script.js
  ┣ 📜 README.md
+ ┣ 📜 LICENSE.md
 ```
 
 ---
@@ -49,6 +51,14 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-## 🙌 Agradecimentos
+## 🔗 Como Usar
+Para acessar to projeto, basta acessar o link:
+- <a href="https://lucasvalgoi.github.io/DevLinks" target="_blank">Lucas - DevLinks</a>
 
-✨ Criado com ❤️ durante o curso **Discover – Rocketseat**.
+---
+
+## 🙌 Agradecimentos ao curso _Discover_ da Rocketseat 🚀.
+
+### 👦 Desenvolvido por: Lucas Luis Valgoi
+
+#### 📰 Projeto sob Licença 
